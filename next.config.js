@@ -21,7 +21,7 @@ module.exports = {
     return [
       {
         source: '/posts/:slug',
-        destination: 'https://dailyxpresss.com/:slug',
+        destination: 'https://ziranews.com/:slug',
         has: [
           {
             type: 'header',
